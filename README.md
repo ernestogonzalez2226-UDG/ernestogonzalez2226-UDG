@@ -1,4 +1,4 @@
-## Hola!!! Soy Ernesto Glez, actual estudiante de la carrera de Ingeniria en computacion en CUAltos
+## Hola!!! Soy Ernesto Glez, actual estudiante de la carrera de Ingeniería en computacion en CUAltos
 ---
 ## TECNOLOGIAS E INTERESES
 - **FOTOGRAFIA**
